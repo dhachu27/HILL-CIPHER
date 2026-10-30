@@ -115,7 +115,8 @@ return 0;
 ```
 
 ## OUTPUT
-<img width="707" height="446" alt="image" src="https://github.com/user-attachments/assets/3d798f59-6048-4494-b72b-9eb80b1badcc" />
+<img width="345" height="277" alt="Screenshot 2026-10-30 085306" src="https://github.com/user-attachments/assets/880b6ac9-0f92-498b-8596-332ae4a3587f" />
+
 
 ## RESULT
 The implementation of hill cipher substitution techniques is successful
